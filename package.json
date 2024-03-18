@@ -1,0 +1,10 @@
+{
+  "name": "diamond-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<boltdsg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@thirdweb-dev/contracts": "^3.11.2"
+  }
+}
